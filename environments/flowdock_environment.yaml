@@ -66,8 +66,10 @@ dependencies:
   - cuda-nvrtc=11.8.89=0
   - cuda-nvtx=11.8.86=0
   - cuda-runtime=11.8.0=0
-  - cudatoolkit=11.8.0=h4ba93d1_12
-  - cudatoolkit-dev=11.8.0=h1fa729e_6
+  #- cudatoolkit=11.8.0=h4ba93d1_12
+  - cudatoolkit=11.8.0
+  #- cudatoolkit-dev=11.8.0=h1fa729e_6
+  - cudatoolkit-dev
   - curl=8.1.2=h409715c_0
   - cycler=0.11.0=pyhd3eb1b0_0
   - cython=3.0.7=py39h3d6467e_0
